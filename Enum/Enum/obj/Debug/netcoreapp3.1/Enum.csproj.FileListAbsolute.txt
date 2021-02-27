@@ -1,0 +1,13 @@
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+D:\Csharp\numbers\Enum\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+D:\Csharp\numbers\Enum\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
